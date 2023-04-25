@@ -1,0 +1,10 @@
+{
+  "name": "mind-ar",
+  "version": "1.2.1",
+  "description": "web augmented reality framework",
+  "type": "module",
+  "dependencies": {
+    "canvas": "^2.10.2",
+    "mind-ar": "^1.2.1"
+  }
+}
